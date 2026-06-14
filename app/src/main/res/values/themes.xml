@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Antiprocrastination"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/deep_purple</item>
+        <item name="colorPrimaryContainer">@color/deep_purple_dark</item>
+
+        <item name="colorSecondary">@color/indigo</item>
+
+        <item name="android:statusBarColor">@color/deep_purple_dark</item>
+
+    </style>
+
+    <style name="Theme.Antiprocrastination"
+        parent="Base.Theme.Antiprocrastination" />
+
+</resources>
